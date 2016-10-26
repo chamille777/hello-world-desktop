@@ -1,3 +1,3 @@
 # Hello World Desktop
 
-This is an example.
+This is yet another example.
